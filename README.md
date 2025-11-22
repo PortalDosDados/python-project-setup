@@ -116,7 +116,6 @@ Agora o ambiente está seguro e pronto. Pode criar seu arquivo `app.py`, `main.p
 -----
 
 **Autor:** Dione Nascimento
-**Revisão:** Gemini (Lancelot)
 
 ```
 
@@ -126,7 +125,5 @@ Agora o ambiente está seguro e pronto. Pode criar seu arquivo `app.py`, `main.p
 Você pode salvar esse texto no **Notion**, **Obsidian** ou até mesmo em um Gist no GitHub para ter fácil acesso.
 
 Sempre que tiver uma ideia nova ("Vou fazer um script para ler PDF"), abra esse guia e siga os 7 passos. O sucesso é garantido.
-
-Podemos fechar essa sessão de mentoria de Setup?
 ```
 
