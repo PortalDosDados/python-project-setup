@@ -1,3 +1,4 @@
+```Markdown
 # 🐍 Protocolo de Iniciação de Projetos Python
 
 > "Primeiro organizamos o ambiente, depois executamos a estratégia."
@@ -10,12 +11,12 @@ Este documento descreve o fluxo de trabalho padrão para iniciar qualquer projet
 
 ```mermaid
 graph TD
-    A[1. Criar Pasta do Projeto] --> B[2. Criar Ambiente Virtual .venv]
-    B --> C[3. CRIAR .gitignore]
-    C --> D[4. Iniciar Git (git init)]
-    D --> E[5. Ativar .venv]
-    E --> F[6. Instalar Libs & Congelar]
-    F --> G[7. Começar a Codar]
+    A["1. Criar Pasta do Projeto"] --> B["2. Criar Ambiente Virtual .venv"]
+    B --> C["3. CRIAR .gitignore"]
+    C --> D["4. Iniciar Git (git init)"]
+    D --> E["5. Ativar .venv"]
+    E --> F["6. Instalar Libs & Congelar"]
+    F --> G["7. Começar a Codar"]
 
     style C fill:#ffcccc,stroke:#333,stroke-width:4px,color:red
     style D fill:#ccffcc,stroke:#333,stroke-width:2px,color:black
