@@ -1,5 +1,3 @@
-### 📘 Arquivo: `GUIA_SETUP_PYTHON.md`
-
 ````markdown
 # 🐍 Protocolo de Iniciação de Projetos Python
 
