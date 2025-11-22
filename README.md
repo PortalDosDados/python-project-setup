@@ -1,4 +1,3 @@
-```markdown
 # 🐍 Protocolo de Iniciação de Projetos Python
 
 > "Primeiro organizamos o ambiente, depois executamos a estratégia."
