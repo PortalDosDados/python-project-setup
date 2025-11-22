@@ -119,8 +119,6 @@ Agora o ambiente está seguro e pronto. Pode criar seu arquivo `app.py`, `main.p
 
 ```
 
----
-
 ### Dica de Ouro
 
 Você pode salvar esse texto no **Notion**, **Obsidian** ou até mesmo em um Gist no GitHub para ter fácil acesso.
