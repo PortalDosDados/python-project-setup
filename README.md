@@ -1,4 +1,4 @@
-````markdown
+```markdown
 # 🐍 Protocolo de Iniciação de Projetos Python
 
 > "Primeiro organizamos o ambiente, depois executamos a estratégia."
@@ -20,7 +20,7 @@ graph TD
 
     style C fill:#ffcccc,stroke:#333,stroke-width:4px,color:red
     style D fill:#ccffcc,stroke:#333,stroke-width:2px,color:black
-````
+```
 
 -----
 
