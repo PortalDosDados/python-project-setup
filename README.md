@@ -21,7 +21,7 @@ graph TD
     style D fill:#ccffcc,stroke:#333,stroke-width:2px,color:black
 ```
 
------
+---
 
 ## 🛠️ Passo a Passo Detalhado (Windows/PowerShell)
 
@@ -96,35 +96,38 @@ pip freeze > requirements.txt
 
 Agora o ambiente está seguro e pronto. Pode criar seu arquivo `app.py`, `main.py` ou `dashboard.py` e começar a programar a lógica do negócio.
 
------
+---
 
 ## 💡 Comandos Úteis para o Dia a Dia
 
-  * **Sair do ambiente virtual:**
-    ```powershell
+* **Sair do ambiente virtual:**
+
+```powershell
     deactivate
-    ```
-  * **Adicionar nova biblioteca:**
-    ```powershell
+```
+
+* **Adicionar nova biblioteca:**
+
+```powershell
     pip install nova-lib
     pip freeze > requirements.txt  # Lembre-se sempre de atualizar a lista!
-    ```
-  * **Adicionar arquivo secreto (Senha/Excel):**
-    1.  Adicione o nome do arquivo no `.gitignore`.
-    2.  Salve o arquivo.
+```
 
------
+* **Adicionar arquivo secreto (Senha/Excel):**
+    1. Adicione o nome do arquivo no `.gitignore`.
+    2. Salve o arquivo.
+
+---
 
 **Autor:** Dione Nascimento
 
-```
+```text
 
 ### Dica de Ouro
 
 Você pode salvar esse texto no **Notion**, **Obsidian** ou até mesmo em um Gist no GitHub para ter fácil acesso.
 
-Sempre que tiver uma ideia nova ("Vou fazer um script para ler PDF"), abra esse guia e siga os 7 passos. 
+Sempre que tiver uma ideia nova ("Vou fazer um script para ler PDF"), abra esse guia e siga os 7 passos.
 
 O sucesso é garantido.
 ```
-
